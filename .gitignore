@@ -31,3 +31,7 @@ Thumbs.db
 *.jar
 *.war
 *.ear
+
+#rust
+*.rs.bk
+RUST_GUIDE.md

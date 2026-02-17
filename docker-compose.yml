@@ -12,5 +12,5 @@ services:
     build: ./web
     image: r2-web
   be:
-    build: ./be-high-level
-    image: be-high-level
+    build: ./be-low-level
+    image: be-low-level
